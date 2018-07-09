@@ -9,7 +9,7 @@
 ## Install
 If you don't have `dope` installed, go here to install it first: https://github.com/offers/dope
 ```
-dope install registry.offers.net/devops/singularity-cli
+dope install registry.ofr.cloud/devops/singularity-cli
 ```
 ## Update
 ```
